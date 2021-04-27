@@ -1,0 +1,5 @@
+#+TITLE: Readme
+
+* Racket With Pictures
+Nothing to see here, literally just burning through it before working on some
+projects for fun in racket
